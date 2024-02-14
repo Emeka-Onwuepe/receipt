@@ -15,7 +15,7 @@
       justify-content: space-between;
   }
   .left,.right{
-      width: 43%;
+      width: 45%;
   
   }
 
@@ -31,3 +31,5 @@
 .body_{margin-bottom: 45px;}
 
 .first_table td{padding: 1.5px 0px;}
+.flex_row{display: flex;}
+.innerleft{width: 150px;}
