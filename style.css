@@ -1,0 +1,33 @@
+*{margin: 0px;
+    padding: 0px;
+  font-size: 12px;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+  .bigwrapper{
+      padding: 1%;
+  }
+  .wrapper{
+      margin: 0px auto;
+  }
+  .main{
+      display: flex;
+      justify-content: space-between;
+  }
+  .left,.right{
+      width: 43%;
+  
+  }
+
+  .flex_container{
+      display: flex;
+      border-bottom: 2px solid black;
+      padding: 2px 0px;
+      background-color: #f3f3f3;
+  }
+
+.top{border-top: 2px solid black;}
+.body{margin-bottom: 80px;}
+.body_{margin-bottom: 45px;}
+
+.first_table td{padding: 1.5px 0px;}
